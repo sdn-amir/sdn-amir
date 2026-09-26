@@ -1,72 +1,70 @@
-<!-- ========================= HEADER ========================= -->
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:7C3AED&height=220&section=header&text=Amirhossein%20Safdarian&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=HTML%20%7C%20Python%20Developer&descAlignY=55&descSize=18&descColor=A970FF](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:7C3AED&height=220&section=header&text=Amirhossein%20Safdarian&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=HTML%20%7C%20Python%20Developer&descAlignY=55&descSize=18&descColor=A970FF)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:6F42C1&text=Amirhossein%20Safdarian&fontColor=58A6FF&fontSize=42&fontAlignY=38&desc=Developer%20%7C%20HTML%20%7C%20Python&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<br>
-
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Amirhossein+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;HTML+Developer+%F0%9F%92%BB;Always+Learning+%26+Building+%E2%9C%A8](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Amirhossein+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;HTML+Developer+%F0%9F%92%BB;Always+Learning+%26+Building+%E2%9C%A8)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Amirhossein+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%92%9C;HTML+%7C+Python+%F0%9F%90%8D;Learning.+Building.+Improving.+%F0%9F%9A%80" />
 
 <br><br>
 
-<a href="[https://github.com/sfdamir](https://github.com/sfdamir)">
-  <img src="[https://img.shields.io/github/followers/sfdamir?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117](https://img.shields.io/github/followers/sfdamir?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117)" />
-</a>
-
-<a href="[https://github.com/sfdamir?tab=repositories](https://github.com/sfdamir?tab=repositories)">
-  <img src="[https://img.shields.io/github/stars/sfdamir?label=Stars&style=for-the-badge&color=A970FF&labelColor=0D1117](https://img.shields.io/github/stars/sfdamir?label=Stars&style=for-the-badge&color=A970FF&labelColor=0D1117)" />
-</a>
-
-<img src="[https://komarev.com/ghpvc/?username=sfdamir&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=sfdamir&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
 ---
-
-<!-- ========================= ABOUT ========================= -->
-<div align="center">
 
 ## 👨‍💻 About Me
-Hi! I'm Amirhossein Safdarian.<br>
-I'm currently learning programming and building my skills with HTML and Python.
 
-</div>
+Hi! I'm **Amirhossein Safdarian**.
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🧑‍💻 Who am I?
+I'm currently learning programming and building my skills with **HTML and Python**.
 
 ```text
-Name       : Amirhossein Safdarian
-Username   : sfdamir
-Focus      : Programming & Web Development
-Languages  : Python, HTML
-Status     : Learning & Building 🚀 
+💡 Learn
+   ↓
+🧠 Practice
+   ↓
+💻 Code
+   ↓
+🧪 Experiment
+   ↓
+🚀 Build
+   ↓
+✨ Improve
 ```
-</td>
-</tr>
-</table>
+
+* 🌐 Learning **HTML**
+* 🐍 Learning **Python**
+* 💻 Exploring **Git & GitHub**
+* 🚀 Working towards my first projects
+* 🧠 Always learning something new
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
 
-**💡 Learn &nbsp;↓&nbsp; 🧠 Practice &nbsp;↓&nbsp; 💻 Code &nbsp;↓&nbsp; 🧪 Experiment &nbsp;↓&nbsp; 🚀 Build &nbsp;↓&nbsp; ✨ Improve**
+<img src="https://skillicons.dev/icons?i=html,python,git,github,vscode" />
 
 </div>
 
 ---
 
-### 🌌 Currently Learning & Exploring
-- 🌐 **HTML** & Web Development
-- 🐍 **Python** (Focusing on foundational concepts via CS50)
-- 💻 Exploring **Git & GitHub**
-- 🚀 Working towards my first projects
-- 🧠 Always learning something new (from coding algorithms to cinema, psychology, and philosophy!)
+## 🌌 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-Learning-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-Learning-6F42C1?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
 
 ---
 
-### 🚀 My Journey
+## 🚀 My Journey
 
 ```text
 2026
@@ -84,38 +82,61 @@ Status     : Learning & Building 🚀
 
 ---
 
-### 🔮 Coming Soon
-`🌐 Web Development` `🐍 Python` `🚀 Open Source` `HTML Projects` `Python Projects` `GitHub Contributions` `Web Experiments` `Automation` `Collaboration`
+## 🔮 Coming Soon
+
+<div align="center">
+
+| 🌐 Web Development |    🐍 Python    |    🚀 Open Source    |
+| :----------------: | :-------------: | :------------------: |
+|    HTML Projects   | Python Projects | GitHub Contributions |
+|   Web Experiments  |    Automation   |     Collaboration    |
+
+</div>
 
 > **My first projects are coming soon...**
 
 ---
 
+## 🧠 My Philosophy
+
 <div align="center">
 
-### 🧠 My Philosophy
-**Learn → Build → Break → Fix → Repeat**
+### `Learn → Build → Break → Fix → Repeat`
 
-<span style="color:#A970FF">Keep coding. Keep learning.</span>
+<br>
 
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=sfdamir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api?username=sfdamir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)" alt="GitHub Stats" />
-  <br><br>
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=sfdamir&theme=radical&hide_border=true&background=0D1117](https://github-readme-streak-stats.herokuapp.com/?user=sfdamir&theme=radical&hide_border=true&background=0D1117)" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Find Me
-
-<a href="[https://github.com/sfdamir](https://github.com/sfdamir)">
-  <img src="[https://img.shields.io/badge/GITHUB-SFDAMIR-58A6FF?style=for-the-badge&logo=github&logoColor=white&color=0D1117](https://img.shields.io/badge/GITHUB-SFDAMIR-58A6FF?style=for-the-badge&logo=github&logoColor=white&color=0D1117)" />
-</a>
-
-<img src="[https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6F42C1,50:58A6FF,100:A970FF](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6F42C1,50:58A6FF,100:A970FF)" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1000&color=A970FF&center=true&vCenter=true&width=550&lines=Every+expert+was+once+a+beginner.;Small+steps+become+big+projects.;Keep+coding.+Keep+learning." />
 
 </div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=sfdamir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A970FF&text_color=C9D1D9&rank_icon=github" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sfdamir&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=A970FF&currStreakLabel=58A6FF" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Find Me
+
+<a href="https://github.com/sfdamir">
+<img src="https://img.shields.io/badge/GitHub-sfdamir-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sfdamir&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6F42C1,50:58A6FF,
