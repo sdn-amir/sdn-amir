@@ -138,5 +138,3 @@ I'm currently learning programming and building my skills with **HTML and Python
 <img src="https://komarev.com/ghpvc/?username=sfdamir&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6F42C1,50:58A6FF,
